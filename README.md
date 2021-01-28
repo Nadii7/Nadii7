@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/m7md-nadii/
 
 
-<a href="https://www.buymeacoffee.com/nadii7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/nadii7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 60px !important;" ></a>
