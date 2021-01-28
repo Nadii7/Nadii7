@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nadii</h1>
-<h3 align="center">A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with Java, Dart, Android and Flutter.</h3>
+<h3 align="center">A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with Java, Dart, Android and Flutter.</h3><br><br>
 
 - 🌱 I’m currently learning **Flutter**
 
