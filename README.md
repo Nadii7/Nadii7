@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nadii</h1>
 <h3 align="center">A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with Java, Dart, Android and Flutter.</h3><br>
 
-<h4> - 🌱 I’m currently learning **Flutter** </h4>
+- 🌱 I’m currently learning **Flutter**
 
-<h4> - 💬 Ask me about **Android, Flutter** </h4>
+- 💬 Ask me about **Android, Flutter**
 
-<h4> - 📫 How to reach me **m7md.nadii@gmail.com** </h4>
+- 📫 How to reach me **m7md.nadii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
